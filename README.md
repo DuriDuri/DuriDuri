@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at [@ParsleyHealth](https://github.com/parsleyhealth)
 - 🌱 I’m currently learning SwiftUI
 - 💬 Ask me about Go, concurrency or anything fintech
-- 📫 How to reach me: [Email](mailto:duri@duri.im) or [Twitter](twitter.com/_DuriDuri)
+- 📫 How to reach me: [Email](mailto:duri@duri.im) or [Twitter](https://twitter.com/_DuriDuri)
 - ⚡ Fun fact: Duri is indeed my first and last name
