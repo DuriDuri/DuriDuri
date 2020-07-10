@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FDuriDuri)
 
 
-- 🔭 I’m currently working at @ParsleyHealth
+- 🔭 I’m currently working at [@ParsleyHealth](https://github.com/parsleyhealth)
 - 🌱 I’m currently learning SwiftUI
 - 💬 Ask me about Go, concurrency or anything fintech
 - 📫 How to reach me: [Email](mailto:duri@duri.im) or [Twitter](twitter.com/_DuriDuri)
